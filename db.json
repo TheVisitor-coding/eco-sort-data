@@ -65,13 +65,13 @@
     {
       "id": 1,
       "user_id": 1,
-      "e-mail": "johndoe@example.com",
+      "email": "johndoe@example.com",
       "passwod": "encrypted_password_here"
     },
     {
       "id": 2,
       "user_id": 2,
-      "e-mail": "janesmith@example.com",
+      "email": "janesmith@example.com",
       "passwod": "encrypted_password_here"
     }
   ],
